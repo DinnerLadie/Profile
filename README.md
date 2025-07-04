@@ -11,11 +11,11 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DinnerLadie&theme=dark" alt="GitHub Streak" /></a>
   <br />
-  <img src="https://raw.githubusercontent.com/DinnerLadie/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/DinnerLadie/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/Keyyard/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Keyyard/github-stats/master/generated/overview.svg#gh-light-mode-only" />
   <br />
-  <img src="https://raw.githubusercontent.com/DinnerLadie/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/DinnerLadie/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/Keyyard/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Keyyard/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </div>
 
 ## 🏆Trophies
